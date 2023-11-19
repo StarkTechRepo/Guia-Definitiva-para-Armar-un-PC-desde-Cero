@@ -269,7 +269,7 @@ La mejor manera de poner la pasta térmica al procesador es mediante el método 
 
 3. **Compuestas de Metal:** Contienen partículas conductoras, como plata o cerámica, para mejorar la conductividad térmica. Son ideales para situaciones de alta exigencia.
 
-4. **Líquidas:** Se aplican en forma líquida y luego se endurecen. Pueden proporcionar una cobertura más uniforme.
+4. **Compuestas de Metal Líquido:** Se aplican en forma líquida y luego se endurecen. Pueden proporcionar una cobertura más uniforme.
 
 ---
 

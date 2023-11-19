@@ -3,7 +3,7 @@
 
 Armar un PC desde cero es una tarea desafiante pero gratificante. Si está pensando en construir su propio sistema, hay algunas cosas que debe saber para asegurarse de que el proceso sea lo más fluido posible.
 
-![imagen](foto.jpg)
+![imagen](foto.jpeg)
 
 # Índice
 

@@ -34,7 +34,7 @@ Armar un PC desde cero es una tarea desafiante pero gratificante. Si está pensa
     - [Ventiladores de Calidad](#ventiladores-de-calidad)
     - [Monitoreo de Temperatura](#monitoreo-de-temperatura-herramientas-de-diagnóstico)
 11. [Contenido Relacionado](#contenido-relacionado)
-12. [Instrucciones para aplicar pasta térmica al procesador](#contenido-relacionado)
+12. [Instrucciones para aplicar pasta térmica al procesador](#tipos-de-pastas-térmicas)
  
 ---
 

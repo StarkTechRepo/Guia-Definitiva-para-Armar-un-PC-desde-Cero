@@ -33,7 +33,7 @@ Armar un PC desde cero es una tarea desafiante pero gratificante. Si está pensa
     - [Diseño del Gabinete](#diseño-del-gabinete)
     - [Ventiladores de Calidad](#ventiladores-de-calidad)
     - [Monitoreo de Temperatura](#monitoreo-de-temperatura-herramientas-de-diagnóstico)
-11. [Aplicar pasta térmica al procesador](#aplicar-pasta-térmica-al-procesador)
+11. [Aplicar pasta térmica al procesador](#11-aplicar-pasta-térmica-al-procesador)
  
 ---
 

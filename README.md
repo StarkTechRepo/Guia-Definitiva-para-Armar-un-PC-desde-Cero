@@ -242,7 +242,7 @@ La ventilación adecuada es esencial para mantener tu PC funcionando de manera �
 - **Configuración Push-Pull:**
   Considera la configuración push-pull para radiadores de refrigeración líquida. Esto implica tener ventiladores tanto en la parte frontal como en la trasera del radiador para mejorar la eficiencia.
 
-### Monitoreo de Temperatura
+### Monitoreo de Temperatura [Herramientas de Diagnóstico](https://github.com/StarkTechRepo/Herramientas_de_Diagnostico)
 
 - **Software de Monitoreo:**
   Utiliza software de monitoreo de temperatura para verificar las condiciones térmicas de tu sistema. Esto te permitirá ajustar la configuración de los ventiladores según sea necesario.

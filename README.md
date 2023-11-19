@@ -34,7 +34,8 @@ Armar un PC desde cero es una tarea desafiante pero gratificante. Si está pensa
     - [Ventiladores de Calidad](#ventiladores-de-calidad)
     - [Monitoreo de Temperatura](#monitoreo-de-temperatura-herramientas-de-diagnóstico)
 11. [Contenido Relacionado](#contenido-relacionado)
-
+12. [Instrucciones para aplicar pasta térmica al procesador](#contenido-relacionado)
+ 
 ---
 
 ## 1. Compatibilidad de Componentes
@@ -253,6 +254,22 @@ La ventilación adecuada es esencial para mantener tu PC funcionando de manera �
 La correcta ventilación y refrigeración aseguran la longevidad y estabilidad de tu PC, así que invierte en componentes de calidad para esta parte crucial de tu sistema.
 
 ---
+
+# Instrucciones para aplicar pasta térmica al procesador
+
+La mejor manera de poner la pasta térmica al procesador es mediante el método de la cruz. Este método consiste en aplicar una pequeña cantidad de pasta térmica en forma de cruz en el centro del procesador. La presión ejercida por el disipador al montarlo, extenderá la pasta térmica uniformemente por toda la superficie del procesador.
+
+![imagen](pasta.gif)
+
+## Tipos de Pastas Térmicas
+
+1. **Basadas en Silicona:** Son económicas y fáciles de aplicar, pero tienden a secarse con el tiempo.
+
+2. **Basadas en Óxido de Zinc:** Ofrecen un buen rendimiento y son más estables que las basadas en silicona.
+
+3. **Compuestas de Metal:** Contienen partículas conductoras, como plata o cerámica, para mejorar la conductividad térmica. Son ideales para situaciones de alta exigencia.
+
+4. **Líquidas:** Se aplican en forma líquida y luego se endurecen. Pueden proporcionar una cobertura más uniforme.
 
 ---
 

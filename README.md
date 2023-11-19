@@ -33,8 +33,7 @@ Armar un PC desde cero es una tarea desafiante pero gratificante. Si está pensa
     - [Diseño del Gabinete](#diseño-del-gabinete)
     - [Ventiladores de Calidad](#ventiladores-de-calidad)
     - [Monitoreo de Temperatura](#monitoreo-de-temperatura-herramientas-de-diagnóstico)
-11. [Contenido Relacionado](#contenido-relacionado)
-12. [Aplicar pasta térmica al procesador](#Aplicar-pasta-térmica-al-procesador)
+11. [Aplicar pasta térmica al procesador](#aplicar-pasta-térmica-al-procesador)
  
 ---
 
@@ -257,7 +256,7 @@ La correcta ventilación y refrigeración aseguran la longevidad y estabilidad d
 
 ---
 
-# 11. Aplicar pasta térmica al procesador
+## 11. Aplicar pasta térmica al procesador
 
 La mejor manera de poner la pasta térmica al procesador es mediante el método de la cruz. Este método consiste en aplicar una pequeña cantidad de pasta térmica en forma de cruz en el centro del procesador. La presión ejercida por el disipador al montarlo, extenderá la pasta térmica uniformemente por toda la superficie del procesador.
 

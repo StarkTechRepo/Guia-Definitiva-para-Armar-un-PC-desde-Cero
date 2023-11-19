@@ -235,7 +235,7 @@ La ventilación adecuada es esencial para mantener tu PC funcionando de manera �
 - **Ventilación Superior:**
   La ventilación superior permite la salida del aire caliente acumulado. Asegúrate de que haya espacio para ventiladores o radiadores en la parte superior del gabinete.
 
-![imagen](aire.jpg)
+![imagen](aire.png)
 
 ### Ventiladores de Calidad
 

@@ -91,9 +91,17 @@ Esta sección destaca los componentes esenciales necesarios para que tu PC funci
   - Asegurarse de que la placa base cumple con los requisitos específicos de las memorias RAM seleccionadas.
 
 ### Procesador
-- Buscar un procesador accesible a sus necesidades.
-- Verificar la compatibilidad con la placa madre seleccionada.
-- Utilizar [Bottleneck Calculator](https://pc-builds.com/es/bottleneck-calculator) para minimizar cuellos de botella.
+- **Selección de Procesador:** Buscar un procesador que se ajuste a sus necesidades y presupuesto.
+- **Compatibilidad con la Placa Madre:**
+  - Verificar la compatibilidad del procesador con la placa madre seleccionada.
+  - Asegurarse de que el zócalo del procesador coincida con el zócalo de la placa madre.
+- **Gráficos Integrados:**
+  - Si no se planea instalar una tarjeta gráfica adicional, considerar un procesador con gráficos integrados.
+  - Los procesadores con gráficos integrados son una opción más económica y son adecuados para usos básicos y un primer PC.
+- **Bottleneck Calculator:**
+  - Utilizar [Bottleneck Calculator](https://pc-builds.com/es/bottleneck-calculator) para evaluar y minimizar posibles cuellos de botella entre el procesador y otros componentes del sistema.
+- **Consideraciones Adicionales:**
+  - Revisar las características específicas del procesador, como la velocidad de reloj y el número de núcleos, para asegurarse de que satisfacen sus necesidades.
 
 ### Memorias RAM
 - **Ofimática:** Mínimo 8GB.

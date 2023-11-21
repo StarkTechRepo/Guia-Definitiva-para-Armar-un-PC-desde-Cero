@@ -14,7 +14,7 @@ Armar un PC desde cero es una tarea desafiante pero gratificante. Si está pensa
     - [Placa Base](#placa-base)
     - [Procesador](#procesador)
     - [Memorias RAM](#memorias-ram)
-    - [Almacenamiento]()
+    - [Almacenamiento](#almacenamiento)
 5. [Fuente de Alimentación](#5-fuente-de-alimentación)
     - [Elección de la Fuente](#elección-de-la-fuente)
     - [Cálculo de Watts](#cálculo-de-watts)

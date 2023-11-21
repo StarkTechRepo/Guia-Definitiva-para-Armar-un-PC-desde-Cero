@@ -82,8 +82,13 @@ Esta sección destaca los componentes esenciales necesarios para que tu PC funci
 ## 4. Elección de Componentes
 
 ### Placa Base
-- Buscar una placa base accesible a sus necesidades.
-- Verificar la información detallada del componente.
+- **Selección de Placa Base:** Buscar una placa base que se ajuste a sus necesidades y requisitos específicos.
+- **Configuración Dual-Channel:**
+  - Verificar la compatibilidad con la configuración dual-channel para un mejor rendimiento de las memorias RAM.
+  - Configurar correctamente las memorias en modo dual-channel si la placa base lo permite. Esto contribuirá a un funcionamiento más eficiente y rápido de la memoria.
+- **Consideraciones Adicionales:**
+  - Revisar otras características relevantes de la placa base, como la cantidad de ranuras de memoria disponibles.
+  - Asegurarse de que la placa base cumple con los requisitos específicos de las memorias RAM seleccionadas.
 
 ### Procesador
 - Buscar un procesador accesible a sus necesidades.
@@ -91,9 +96,13 @@ Esta sección destaca los componentes esenciales necesarios para que tu PC funci
 - Utilizar [Bottleneck Calculator](https://pc-builds.com/es/bottleneck-calculator) para minimizar cuellos de botella.
 
 ### Memorias RAM
-- Ofimática: Mínimo 8GB.
-- Juegos: Mínimo 16GB.
-- Verificar compatibilidad y configurar dual-channel si es posible.
+- **Ofimática:** Mínimo 8GB.
+- **Juegos:** Mínimo 16GB.
+- **Configuración Avanzada:** Verificar la compatibilidad de la placa base con la configuración de memoria. Si es posible, configurar en modo dual-channel para mejorar la velocidad de lectura y escritura.
+- **Optimización de Capacidad y Velocidad:**
+  - Si la placa base tiene múltiples ranuras, considerar dividir la capacidad total de la memoria entre las ranuras disponibles.
+  - Ejemplo: Si se desea instalar 16GB de RAM y hay dos ranuras, colocar dos módulos de 8GB en cada ranura para aprovechar la configuración dual-channel.
+  - También, considerar la velocidad de la memoria (MHz) para un mejor rendimiento, especialmente en tareas intensivas.
 
 ---
 

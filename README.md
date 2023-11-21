@@ -14,6 +14,7 @@ Armar un PC desde cero es una tarea desafiante pero gratificante. Si está pensa
     - [Placa Base](#placa-base)
     - [Procesador](#procesador)
     - [Memorias RAM](#memorias-ram)
+    - [Almacenamiento]()
 5. [Fuente de Alimentación](#5-fuente-de-alimentación)
     - [Elección de la Fuente](#elección-de-la-fuente)
     - [Cálculo de Watts](#cálculo-de-watts)
@@ -102,7 +103,6 @@ Esta sección destaca los componentes esenciales necesarios para que tu PC funci
   - Utilizar [Bottleneck Calculator](https://pc-builds.com/es/bottleneck-calculator) para evaluar y minimizar posibles cuellos de botella entre el procesador y otros componentes del sistema.
 - **Consideraciones Adicionales:**
   - Revisar las características específicas del procesador, como la velocidad de reloj y el número de núcleos, para asegurarse de que satisfacen sus necesidades.
-
 ### Memorias RAM
 - **Ofimática:** Mínimo 8GB.
 - **Juegos:** Mínimo 16GB.
@@ -111,6 +111,27 @@ Esta sección destaca los componentes esenciales necesarios para que tu PC funci
   - Si la placa base tiene múltiples ranuras, considerar dividir la capacidad total de la memoria entre las ranuras disponibles.
   - Ejemplo: Si se desea instalar 16GB de RAM y hay dos ranuras, colocar dos módulos de 8GB en cada ranura para aprovechar la configuración dual-channel.
   - También, considerar la velocidad de la memoria (MHz) para un mejor rendimiento, especialmente en tareas intensivas.
+
+### Almacenamiento
+
+- **Selección de Almacenamiento:**
+  - Elegir el tipo de almacenamiento que mejor se adapte a sus necesidades y presupuesto.
+- **Consideraciones según la Placa Base:**
+  - Verificar las especificaciones de la placa base para conocer qué tipos de almacenamiento son compatibles.
+  - Asegurarse de que la placa base tenga suficientes conectores para el tipo de almacenamiento seleccionado.
+- **Tipos de Almacenamiento:**
+  1. **HDD (Disco Duro):**
+      - **Descripción:** Ofrece una gran capacidad de almacenamiento a un costo más bajo, pero con velocidades de lectura/escritura más lentas.
+  2. **SSD (Unidad de Estado Sólido):**
+      - **Descripción:** Proporciona velocidades de lectura/escritura más rápidas que los HDD, mejorando significativamente el rendimiento del sistema. Más caros, pero ideales para el sistema operativo y aplicaciones.
+  3. **NVMe SSD (SSD de Alta Velocidad):**
+      - **Descripción:** Similar a los SSD, pero utiliza una conexión NVMe para ofrecer velocidades aún más rápidas. Ideal para cargas de trabajo intensivas y sistemas que admiten esta tecnología.
+  4. **M.2 SSD (M.2 NVMe):**
+      - **Descripción:** Un tipo de SSD que se conecta directamente a la placa base a través de un puerto M.2. Ofrece altas velocidades de transferencia de datos y es ideal para sistemas con espacio limitado.
+  5. **Híbrido (SSHD):**
+      - **Descripción:** Combinación de HDD y SSD en un solo dispositivo. Ofrece una mayor capacidad de almacenamiento y un rendimiento mejorado en comparación con los HDD, aunque no alcanza las velocidades de los SSD puros.
+- **Recomendación Final:**
+  - Considerar un SSD o M.2 para el sistema operativo y las aplicaciones principales, y un HDD adicional para almacenamiento de datos a gran escala.
 
 ---
 

@@ -166,6 +166,7 @@ La fuente de alimentación es un componente crítico para asegurar un suministro
 Recuerda que una fuente de alimentación adecuada es esencial para la estabilidad y durabilidad de tu sistema. Invertir en una fuente de calidad puede prevenir problemas futuros y garantizar un rendimiento óptimo.
 
 puedes obtener más información sobre fuentes de alimentación y sus certificaciones en la [base de datos de Cybenetics](https://www.cybenetics.com/index.php?option=database&params=1,1).
+
 ---
 
 ## 6. Gabinete

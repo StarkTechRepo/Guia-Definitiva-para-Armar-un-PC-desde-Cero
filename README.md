@@ -302,6 +302,8 @@ La mejor manera de poner la pasta térmica al procesador es mediante el método 
 
 ![imagen](pasta.gif)
 
+Es importante tener en cuenta que, aunque el método de la cruz es el recomendado, todos los métodos pueden ser efectivos. La clave está en asegurarse de que el procesador quede completamente cubierto con la pasta térmica para garantizar una correcta disipación del calor.
+
 ## Tipos de Pastas Térmicas
 
 1. **Basadas en Silicona:** Son económicas y fáciles de aplicar, pero tienden a secarse con el tiempo.

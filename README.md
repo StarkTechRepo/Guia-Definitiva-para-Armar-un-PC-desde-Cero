@@ -103,14 +103,25 @@ Esta sección destaca los componentes esenciales necesarios para que tu PC funci
   - Utilizar [Bottleneck Calculator](https://pc-builds.com/es/bottleneck-calculator) para evaluar y minimizar posibles cuellos de botella entre el procesador y otros componentes del sistema.
 - **Consideraciones Adicionales:**
   - Revisar las características específicas del procesador, como la velocidad de reloj y el número de núcleos, para asegurarse de que satisfacen sus necesidades.
+
 ### Memorias RAM
 - **Ofimática:** Mínimo 8GB.
 - **Juegos:** Mínimo 16GB.
-- **Configuración Avanzada:** Verificar la compatibilidad de la placa base con la configuración de memoria. Si es posible, configurar en modo dual-channel para mejorar la velocidad de lectura y escritura.
-- **Optimización de Capacidad y Velocidad:**
-  - Si la placa base tiene múltiples ranuras, considerar dividir la capacidad total de la memoria entre las ranuras disponibles.
-  - Ejemplo: Si se desea instalar 16GB de RAM y hay dos ranuras, colocar dos módulos de 8GB en cada ranura para aprovechar la configuración dual-channel.
+- **Configuración Avanzada:** Verificar la compatibilidad de la placa base con la configuración de memoria. Si es posible, configurar en modo dual-channel o quad-channel para mejorar la velocidad de lectura y escritura.
+#### Optimización de Capacidad y Velocidad:
+- Si la placa base tiene múltiples ranuras y se desea instalar 16GB de RAM:
+  - Verificar si es compatible con la configuración dual-channel o quad-channel.
+  - Si es compatible con dual-channel, colocar dos módulos de 8GB en cada ranura para aprovechar la configuración dual-channel.
+  - Si es compatible con quad-channel, colocar cuatro módulos de 4GB en las ranuras correspondientes para aprovechar la configuración quad-channel.
+  - Si solo hay una ranura, instalar un solo módulo de 16GB.
+- Si se elige una capacidad diferente, considerar dividir la capacidad total de la memoria entre las ranuras disponibles.
+  - Ejemplo: Para 32GB de RAM y ocho ranuras, colocar ocho módulos de 4GB para aprovechar todas las ranuras y mejorar la configuración quad-channel si es compatible.
   - También, considerar la velocidad de la memoria (MHz) para un mejor rendimiento, especialmente en tareas intensivas.
+### Configuración de Canales:
+- Verificar si la placa base es compatible con la configuración dual-channel y quad-channel.
+- **Dual-Channel:** Dual-channel significa que la memoria RAM se accede simultáneamente a través de dos canales de datos, mejorando la velocidad de transferencia y el rendimiento general del sistema. Se logra utilizando dos o cuatro módulos de memoria en ranuras específicas de la placa base.
+- **Quad-Channel:** Quad-channel es similar a dual-channel, pero utiliza cuatro canales de datos para un acceso simultáneo aún mayor, ofreciendo un rendimiento superior en aplicaciones que demandan una gran cantidad de datos, como renderizado 3D o edición de video. Se logra utilizando cuatro módulos de memoria en ranuras específicas de la placa base.
+- Aprovechar la configuración dual-channel o quad-channel según la compatibilidad para una mejor eficiencia en la transmisión de datos entre los módulos de memoria.
 
 ### Almacenamiento
 

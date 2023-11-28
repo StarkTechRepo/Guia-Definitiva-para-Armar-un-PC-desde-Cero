@@ -119,7 +119,7 @@ Esta sección destaca los componentes esenciales necesarios para que tu PC funci
   - También, considerar la velocidad de la memoria (MHz) para un mejor rendimiento, especialmente en tareas intensivas.
 - **Configuración de Canales:**
 - Verificar si la placa base es compatible con la configuración dual-channel y quad-channel.
-- **Dual-Channel:** Dual-channel significa que la memoria RAM se accede simultáneamente a través de dos canales de datos, mejorando la velocidad de transferencia y el rendimiento general del sistema. Se logra utilizando dos o cuatro módulos de memoria en ranuras específicas de la placa base.
+- **Dual-Channel:** Dual-channel significa que la memoria RAM se accede simultáneamente a través de dos canales de datos, mejorando la velocidad de transferencia y el rendimiento general del sistema. 
 - **Quad-Channel:** Quad-channel es similar a dual-channel, pero utiliza cuatro canales de datos para un acceso simultáneo aún mayor, ofreciendo un rendimiento superior en aplicaciones que demandan una gran cantidad de datos, como renderizado 3D o edición de video.
 - Aprovechar la configuración dual-channel o quad-channel según la compatibilidad para una mejor eficiencia en la transmisión de datos entre los módulos de memoria.
 

@@ -84,30 +84,39 @@ Esta sección destaca los componentes esenciales necesarios para que tu PC funci
 
 ### Placa Base
 - **Selección de Placa Base:** Buscar una placa base que se ajuste a sus necesidades y requisitos específicos.
+
 - **Configuración Dual-Channel:**
   - Verificar la compatibilidad con la configuración dual-channel para un mejor rendimiento de las memorias RAM.
   - Configurar correctamente las memorias en modo dual-channel si la placa base lo permite. Esto contribuirá a un funcionamiento más eficiente y rápido de la memoria.
+
 - **Consideraciones Adicionales:**
   - Revisar otras características relevantes de la placa base, como la cantidad de ranuras de memoria disponibles.
   - Asegurarse de que la placa base cumple con los requisitos específicos de las memorias RAM seleccionadas.
 
 ### Procesador
 - **Selección de Procesador:** Buscar un procesador que se ajuste a sus necesidades y presupuesto.
+
 - **Compatibilidad con la Placa Madre:**
   - Verificar la compatibilidad del procesador con la placa madre seleccionada.
   - Asegurarse de que el zócalo del procesador coincida con el zócalo de la placa madre.
+
 - **Gráficos Integrados:**
   - Si no se planea instalar una tarjeta gráfica adicional, considerar un procesador con gráficos integrados.
   - Los procesadores con gráficos integrados son una opción más económica y son adecuados para usos básicos y un primer PC.
+
 - **Bottleneck Calculator:**
   - Utilizar [Bottleneck Calculator](https://pc-builds.com/es/bottleneck-calculator) para evaluar y minimizar posibles cuellos de botella entre el procesador y otros componentes del sistema.
+
 - **Consideraciones Adicionales:**
   - Revisar las características específicas del procesador, como la velocidad de reloj y el número de núcleos, para asegurarse de que satisfacen sus necesidades.
 
 ### Memorias RAM
 - **Ofimática:** Mínimo 8GB.
+
 - **Juegos:** Mínimo 16GB.
+
 - **Configuración Avanzada:** Verificar la compatibilidad de la placa base con la configuración de memoria. Si es posible, configurar en modo dual-channel o quad-channel para mejorar la velocidad de lectura y escritura.
+
 - **Optimización de Capacidad y Velocidad:**
 - Si la placa base tiene múltiples ranuras y se desea instalar 16GB de RAM:
   - Verificar si es compatible con la configuración dual-channel o quad-channel.
@@ -117,29 +126,39 @@ Esta sección destaca los componentes esenciales necesarios para que tu PC funci
 - Si se elige una capacidad diferente, considerar dividir la capacidad total de la memoria entre las ranuras disponibles.
   - Ejemplo: Para 32GB de RAM y ocho ranuras, colocar ocho módulos de 4GB para aprovechar todas las ranuras y mejorar la configuración quad-channel si es compatible.
   - También, considerar la velocidad de la memoria (MHz) para un mejor rendimiento, especialmente en tareas intensivas.
+
 - **Configuración de Canales:**
 - Verificar si la placa base es compatible con la configuración dual-channel y quad-channel.
+
 - **Dual-Channel:** Dual-channel significa que la memoria RAM se accede simultáneamente a través de dos canales de datos, mejorando la velocidad de transferencia y el rendimiento general del sistema. 
+
 - **Quad-Channel:** Quad-channel es similar a dual-channel, pero utiliza cuatro canales de datos para un acceso simultáneo aún mayor, ofreciendo un rendimiento superior en aplicaciones que demandan una gran cantidad de datos, como renderizado 3D o edición de video.
 - Aprovechar la configuración dual-channel o quad-channel según la compatibilidad para una mejor eficiencia en la transmisión de datos entre los módulos de memoria.
 
 ### Almacenamiento
 - **Selección de Almacenamiento:**
   - Elegir el tipo de almacenamiento que mejor se adapte a sus necesidades y presupuesto.
+
 - **Consideraciones según la Placa Base:**
   - Verificar las especificaciones de la placa base para conocer qué tipos de almacenamiento son compatibles.
   - Asegurarse de que la placa base tenga suficientes conectores para el tipo de almacenamiento seleccionado.
+
 - **Tipos de Almacenamiento:**
   1. **HDD (Disco Duro):**
       - **Descripción:** Ofrece una gran capacidad de almacenamiento a un costo más bajo, pero con velocidades de lectura/escritura más lentas.
+
   2. **SSD (Unidad de Estado Sólido):**
       - **Descripción:** Proporciona velocidades de lectura/escritura más rápidas que los HDD, mejorando significativamente el rendimiento del sistema. Más caros, pero ideales para el sistema operativo y aplicaciones.
+ 
   3. **NVMe SSD (SSD de Alta Velocidad):**
       - **Descripción:** Similar a los SSD, pero utiliza una conexión NVMe para ofrecer velocidades aún más rápidas. Ideal para cargas de trabajo intensivas y sistemas que admiten esta tecnología.
-  4. **M.2 SSD (M.2 NVMe):**
+
+   4. **M.2 SSD (M.2 NVMe):**
       - **Descripción:** Un tipo de SSD que se conecta directamente a la placa base a través de un puerto M.2. Ofrece altas velocidades de transferencia de datos y es ideal para sistemas con espacio limitado.
+
   5. **Híbrido (SSHD):**
       - **Descripción:** Combinación de HDD y SSD en un solo dispositivo. Ofrece una mayor capacidad de almacenamiento y un rendimiento mejorado en comparación con los HDD, aunque no alcanza las velocidades de los SSD puros.
+
 - **Recomendación Final:**
   - Considerar un SSD o M.2 para el sistema operativo y las aplicaciones principales, y un HDD adicional para almacenamiento de datos a gran escala.
 
